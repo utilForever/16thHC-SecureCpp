@@ -28,6 +28,9 @@
     <Filter Include="FIO50-CPP">
       <UniqueIdentifier>{05aef8f2-bba3-4acd-93df-9ed2db8bc9b2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ERR54-CPP">
+      <UniqueIdentifier>{4eea48cb-ec00-4be8-9fa9-a16c79a9c51a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DCL59-CPP\main.cpp">
@@ -62,6 +65,9 @@
     </ClCompile>
     <ClCompile Include="FIO50-CPP\main.cpp">
       <Filter>FIO50-CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="ERR54-CPP\main.cpp">
+      <Filter>ERR54-CPP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
