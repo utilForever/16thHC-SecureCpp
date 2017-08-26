@@ -4,6 +4,9 @@
     <Filter Include="DCL59-CPP">
       <UniqueIdentifier>{079ae2fb-23d7-4f30-8085-acf2353aa28d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CTR52-CPP">
+      <UniqueIdentifier>{2d6be931-dfe2-4027-83a7-fdb3214dcac2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DCL59-CPP\main.cpp">
@@ -14,6 +17,9 @@
     </ClCompile>
     <ClCompile Include="DCL59-CPP\func_g.cpp">
       <Filter>DCL59-CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CTR52-CPP\main.cpp">
+      <Filter>CTR52-CPP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
