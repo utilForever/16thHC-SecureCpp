@@ -9,4 +9,6 @@ int main()
 	g();
 	f();
 	g();
+
+	return 0;
 }
