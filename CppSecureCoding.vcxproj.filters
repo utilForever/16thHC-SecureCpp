@@ -31,6 +31,9 @@
     <Filter Include="ERR54-CPP">
       <UniqueIdentifier>{4eea48cb-ec00-4be8-9fa9-a16c79a9c51a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ERR55-CPP">
+      <UniqueIdentifier>{61baec36-2a7f-4238-bc89-df471f6de772}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DCL59-CPP\main.cpp">
@@ -68,6 +71,9 @@
     </ClCompile>
     <ClCompile Include="ERR54-CPP\main.cpp">
       <Filter>ERR54-CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="ERR55-CPP\main.cpp">
+      <Filter>ERR55-CPP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
