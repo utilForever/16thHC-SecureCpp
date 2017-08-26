@@ -13,6 +13,9 @@
     <Filter Include="INT50-CPP">
       <UniqueIdentifier>{3fa3f876-8ec8-47ea-aa9a-3c3c073ceab4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="EXP53-CPP">
+      <UniqueIdentifier>{4fcd74d2-6820-4e2a-8f95-150e7899dfc9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DCL59-CPP\main.cpp">
@@ -32,6 +35,9 @@
     </ClCompile>
     <ClCompile Include="INT50-CPP\main.cpp">
       <Filter>INT50-CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="EXP53-CPP\main.cpp">
+      <Filter>EXP53-CPP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
