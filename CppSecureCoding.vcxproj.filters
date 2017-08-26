@@ -7,6 +7,9 @@
     <Filter Include="CTR52-CPP">
       <UniqueIdentifier>{2d6be931-dfe2-4027-83a7-fdb3214dcac2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CTR55-CPP">
+      <UniqueIdentifier>{006f6332-ce96-4e46-bd4e-c70020444659}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DCL59-CPP\main.cpp">
@@ -20,6 +23,9 @@
     </ClCompile>
     <ClCompile Include="CTR52-CPP\main.cpp">
       <Filter>CTR52-CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CTR55-CPP\main.cpp">
+      <Filter>CTR55-CPP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
