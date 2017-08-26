@@ -10,6 +10,9 @@
     <Filter Include="CTR55-CPP">
       <UniqueIdentifier>{006f6332-ce96-4e46-bd4e-c70020444659}</UniqueIdentifier>
     </Filter>
+    <Filter Include="INT50-CPP">
+      <UniqueIdentifier>{3fa3f876-8ec8-47ea-aa9a-3c3c073ceab4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DCL59-CPP\main.cpp">
@@ -26,6 +29,9 @@
     </ClCompile>
     <ClCompile Include="CTR55-CPP\main.cpp">
       <Filter>CTR55-CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="INT50-CPP\main.cpp">
+      <Filter>INT50-CPP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
