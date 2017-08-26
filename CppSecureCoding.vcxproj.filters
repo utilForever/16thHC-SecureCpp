@@ -16,6 +16,9 @@
     <Filter Include="EXP53-CPP">
       <UniqueIdentifier>{4fcd74d2-6820-4e2a-8f95-150e7899dfc9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="EXP63-CPP">
+      <UniqueIdentifier>{ab2be783-dbad-4bf6-99e9-0b25632bbf19}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DCL59-CPP\main.cpp">
@@ -38,6 +41,9 @@
     </ClCompile>
     <ClCompile Include="EXP53-CPP\main.cpp">
       <Filter>EXP53-CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="EXP63-CPP\main.cpp">
+      <Filter>EXP63-CPP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
