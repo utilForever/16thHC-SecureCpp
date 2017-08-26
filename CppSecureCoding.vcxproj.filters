@@ -22,6 +22,9 @@
     <Filter Include="STR50-CPP">
       <UniqueIdentifier>{5f3f1841-1579-4e47-9978-edd270c71620}</UniqueIdentifier>
     </Filter>
+    <Filter Include="STR51-CPP">
+      <UniqueIdentifier>{c51495de-2508-418e-8eb3-9fd3c4152d32}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DCL59-CPP\main.cpp">
@@ -50,6 +53,9 @@
     </ClCompile>
     <ClCompile Include="STR50-CPP\main.cpp">
       <Filter>STR50-CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="STR51-CPP\main.cpp">
+      <Filter>STR51-CPP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
