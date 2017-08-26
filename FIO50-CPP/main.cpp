@@ -16,6 +16,8 @@ void f(const std::string& fileName)
 	file >> str;
 
 	std::cout << str;
+
+	file.close();
 }
 
 int main()
