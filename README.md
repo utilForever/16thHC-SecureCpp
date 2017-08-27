@@ -14,7 +14,6 @@ The CERT C++ Coding Standard does not currently expose any recommendations; all 
 ## Examples
 
 - [Representation file](https://github.com/utilForever/16thHackingCamp-CppSecureCoding/blob/master/C%2B%2B%20Secure%20Coding%20Guide.pdf)
-
 - Rule 01. Declarations and Initialization (DCL)
 - Rule 02. Expressions (EXP)
 - Rule 03. Integers (INT)
