@@ -1,150 +1,183 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="DCL59-CPP">
+    <Filter Include="Rule 01. DCL">
+      <UniqueIdentifier>{b12c055a-fe55-4dcd-8553-6da2ccf6f14b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 01. DCL\DCL59-CPP">
       <UniqueIdentifier>{079ae2fb-23d7-4f30-8085-acf2353aa28d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="CTR52-CPP">
-      <UniqueIdentifier>{2d6be931-dfe2-4027-83a7-fdb3214dcac2}</UniqueIdentifier>
+    <Filter Include="Rule 02. EXP">
+      <UniqueIdentifier>{7913c7a9-9ea2-4482-9aa6-8f3aef725a3c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="CTR55-CPP">
-      <UniqueIdentifier>{006f6332-ce96-4e46-bd4e-c70020444659}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="INT50-CPP">
-      <UniqueIdentifier>{3fa3f876-8ec8-47ea-aa9a-3c3c073ceab4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="EXP53-CPP">
+    <Filter Include="Rule 02. EXP\EXP53-CPP">
       <UniqueIdentifier>{4fcd74d2-6820-4e2a-8f95-150e7899dfc9}</UniqueIdentifier>
     </Filter>
-    <Filter Include="EXP63-CPP">
+    <Filter Include="Rule 02. EXP\EXP63-CPP">
       <UniqueIdentifier>{ab2be783-dbad-4bf6-99e9-0b25632bbf19}</UniqueIdentifier>
     </Filter>
-    <Filter Include="STR50-CPP">
+    <Filter Include="Rule 03. INT">
+      <UniqueIdentifier>{eebc3a6e-4f93-48f1-b42d-304a51edbac6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 03. INT\INT50-CPP">
+      <UniqueIdentifier>{3fa3f876-8ec8-47ea-aa9a-3c3c073ceab4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 04. CTR">
+      <UniqueIdentifier>{8cf21ac4-f024-425b-9716-d29e93abca0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 04. CTR\CTR55-CPP">
+      <UniqueIdentifier>{006f6332-ce96-4e46-bd4e-c70020444659}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 04. CTR\CTR52-CPP">
+      <UniqueIdentifier>{2d6be931-dfe2-4027-83a7-fdb3214dcac2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 05. STR">
+      <UniqueIdentifier>{a04a0474-644b-4161-a5d4-6f602852bc55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 05. STR\STR50-CPP">
       <UniqueIdentifier>{5f3f1841-1579-4e47-9978-edd270c71620}</UniqueIdentifier>
     </Filter>
-    <Filter Include="STR51-CPP">
+    <Filter Include="Rule 05. STR\STR51-CPP">
       <UniqueIdentifier>{c51495de-2508-418e-8eb3-9fd3c4152d32}</UniqueIdentifier>
     </Filter>
-    <Filter Include="FIO50-CPP">
-      <UniqueIdentifier>{05aef8f2-bba3-4acd-93df-9ed2db8bc9b2}</UniqueIdentifier>
+    <Filter Include="Rule 06. MEM">
+      <UniqueIdentifier>{cf47d960-ec49-4acc-b392-611d3edbd9da}</UniqueIdentifier>
     </Filter>
-    <Filter Include="ERR54-CPP">
-      <UniqueIdentifier>{4eea48cb-ec00-4be8-9fa9-a16c79a9c51a}</UniqueIdentifier>
+    <Filter Include="Rule 06. MEM\MEM51-CPP">
+      <UniqueIdentifier>{0fd60f59-04f7-4a30-a9f6-c742c0456988}</UniqueIdentifier>
     </Filter>
-    <Filter Include="ERR55-CPP">
-      <UniqueIdentifier>{61baec36-2a7f-4238-bc89-df471f6de772}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="ERR56-CPP">
-      <UniqueIdentifier>{75ded8be-650e-49ef-93ee-25b138310f46}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="OOP52-CPP">
-      <UniqueIdentifier>{6a4f33cc-9e0e-4cf1-a3da-e9770778c114}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="OOP55-CPP">
-      <UniqueIdentifier>{754d7372-83c3-44e0-a58c-aca57809c08e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="OOP57-CPP">
-      <UniqueIdentifier>{c5971d27-3686-4130-9634-1b817c9ac1f3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="OOP58-CPP">
-      <UniqueIdentifier>{77fb9b57-2e65-4fe3-9abd-09a43642a186}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="CON51-CPP">
-      <UniqueIdentifier>{47d89373-926f-45ba-844a-da2d4bc66c93}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="MSC50-CPP">
-      <UniqueIdentifier>{2d59745e-c07c-4664-a5f5-b7c7000c37e9}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="MSC51-CPP">
-      <UniqueIdentifier>{c9138839-ca5b-4bc8-87d6-18d9ba77e701}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="MSC52-CPP">
-      <UniqueIdentifier>{a8d68604-8f0c-41c5-ba46-9f0a681e0c79}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="MEM56-CPP">
+    <Filter Include="Rule 06. MEM\MEM56-CPP">
       <UniqueIdentifier>{45cbde22-25ae-4f4a-b5e8-3d1dd5fb4c5a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="MEM51-CPP">
-      <UniqueIdentifier>{0fd60f59-04f7-4a30-a9f6-c742c0456988}</UniqueIdentifier>
+    <Filter Include="Rule 07. FIO">
+      <UniqueIdentifier>{966957c8-cf54-4ba2-b8e0-49cc940a0fae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 07. FIO\FIO50-CPP">
+      <UniqueIdentifier>{05aef8f2-bba3-4acd-93df-9ed2db8bc9b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 08. ERR">
+      <UniqueIdentifier>{fd7fd2ef-6a7a-49d8-ba0d-0b3833465ef5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 08. ERR\ERR54-CPP">
+      <UniqueIdentifier>{4eea48cb-ec00-4be8-9fa9-a16c79a9c51a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 08. ERR\ERR55-CPP">
+      <UniqueIdentifier>{61baec36-2a7f-4238-bc89-df471f6de772}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 08. ERR\ERR56-CPP">
+      <UniqueIdentifier>{75ded8be-650e-49ef-93ee-25b138310f46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 09. OOP">
+      <UniqueIdentifier>{31d82305-db30-4771-a213-9154df79edab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 09. OOP\OOP52-CPP">
+      <UniqueIdentifier>{6a4f33cc-9e0e-4cf1-a3da-e9770778c114}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 09. OOP\OOP55-CPP">
+      <UniqueIdentifier>{754d7372-83c3-44e0-a58c-aca57809c08e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 09. OOP\OOP57-CPP">
+      <UniqueIdentifier>{c5971d27-3686-4130-9634-1b817c9ac1f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 09. OOP\OOP58-CPP">
+      <UniqueIdentifier>{77fb9b57-2e65-4fe3-9abd-09a43642a186}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 10. CON">
+      <UniqueIdentifier>{38dd0771-540d-42ee-8add-e33bb21fd05a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 10. CON\CON51-CPP">
+      <UniqueIdentifier>{47d89373-926f-45ba-844a-da2d4bc66c93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 49. MSC">
+      <UniqueIdentifier>{00249cb7-a552-4e4d-9baf-c45a0d7f44bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 49. MSC\MSC50-CPP">
+      <UniqueIdentifier>{2d59745e-c07c-4664-a5f5-b7c7000c37e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 49. MSC\MSC51-CPP">
+      <UniqueIdentifier>{c9138839-ca5b-4bc8-87d6-18d9ba77e701}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rule 49. MSC\MSC52-CPP">
+      <UniqueIdentifier>{a8d68604-8f0c-41c5-ba46-9f0a681e0c79}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DCL59-CPP\main.cpp">
-      <Filter>DCL59-CPP</Filter>
+      <Filter>Rule 01. DCL\DCL59-CPP</Filter>
     </ClCompile>
     <ClCompile Include="DCL59-CPP\func_f.cpp">
-      <Filter>DCL59-CPP</Filter>
+      <Filter>Rule 01. DCL\DCL59-CPP</Filter>
     </ClCompile>
     <ClCompile Include="DCL59-CPP\func_g.cpp">
-      <Filter>DCL59-CPP</Filter>
+      <Filter>Rule 01. DCL\DCL59-CPP</Filter>
     </ClCompile>
     <ClCompile Include="CTR52-CPP\main.cpp">
-      <Filter>CTR52-CPP</Filter>
+      <Filter>Rule 04. CTR\CTR52-CPP</Filter>
     </ClCompile>
     <ClCompile Include="CTR55-CPP\main.cpp">
-      <Filter>CTR55-CPP</Filter>
+      <Filter>Rule 04. CTR\CTR55-CPP</Filter>
     </ClCompile>
     <ClCompile Include="INT50-CPP\main.cpp">
-      <Filter>INT50-CPP</Filter>
+      <Filter>Rule 03. INT\INT50-CPP</Filter>
     </ClCompile>
     <ClCompile Include="EXP53-CPP\main.cpp">
-      <Filter>EXP53-CPP</Filter>
+      <Filter>Rule 02. EXP\EXP53-CPP</Filter>
     </ClCompile>
     <ClCompile Include="EXP63-CPP\main.cpp">
-      <Filter>EXP63-CPP</Filter>
+      <Filter>Rule 02. EXP\EXP63-CPP</Filter>
     </ClCompile>
     <ClCompile Include="STR50-CPP\main.cpp">
-      <Filter>STR50-CPP</Filter>
+      <Filter>Rule 05. STR\STR50-CPP</Filter>
     </ClCompile>
     <ClCompile Include="STR51-CPP\main.cpp">
-      <Filter>STR51-CPP</Filter>
+      <Filter>Rule 05. STR\STR51-CPP</Filter>
     </ClCompile>
     <ClCompile Include="FIO50-CPP\main.cpp">
-      <Filter>FIO50-CPP</Filter>
+      <Filter>Rule 07. FIO\FIO50-CPP</Filter>
     </ClCompile>
     <ClCompile Include="ERR54-CPP\main.cpp">
-      <Filter>ERR54-CPP</Filter>
+      <Filter>Rule 08. ERR\ERR54-CPP</Filter>
     </ClCompile>
     <ClCompile Include="ERR55-CPP\main.cpp">
-      <Filter>ERR55-CPP</Filter>
+      <Filter>Rule 08. ERR\ERR55-CPP</Filter>
     </ClCompile>
     <ClCompile Include="ERR56-CPP\main.cpp">
-      <Filter>ERR56-CPP</Filter>
+      <Filter>Rule 08. ERR\ERR56-CPP</Filter>
     </ClCompile>
     <ClCompile Include="OOP52-CPP\main.cpp">
-      <Filter>OOP52-CPP</Filter>
+      <Filter>Rule 09. OOP\OOP52-CPP</Filter>
     </ClCompile>
     <ClCompile Include="OOP55-CPP\main.cpp">
-      <Filter>OOP55-CPP</Filter>
+      <Filter>Rule 09. OOP\OOP55-CPP</Filter>
     </ClCompile>
     <ClCompile Include="OOP57-CPP\main.cpp">
-      <Filter>OOP57-CPP</Filter>
+      <Filter>Rule 09. OOP\OOP57-CPP</Filter>
     </ClCompile>
     <ClCompile Include="OOP58-CPP\main.cpp">
-      <Filter>OOP58-CPP</Filter>
+      <Filter>Rule 09. OOP\OOP58-CPP</Filter>
     </ClCompile>
     <ClCompile Include="CON51-CPP\main.cpp">
-      <Filter>CON51-CPP</Filter>
+      <Filter>Rule 10. CON\CON51-CPP</Filter>
     </ClCompile>
     <ClCompile Include="MSC50-CPP\main.cpp">
-      <Filter>MSC50-CPP</Filter>
+      <Filter>Rule 49. MSC\MSC50-CPP</Filter>
     </ClCompile>
     <ClCompile Include="MSC51-CPP\main.cpp">
-      <Filter>MSC51-CPP</Filter>
+      <Filter>Rule 49. MSC\MSC51-CPP</Filter>
     </ClCompile>
     <ClCompile Include="MSC52-CPP\main.cpp">
-      <Filter>MSC52-CPP</Filter>
+      <Filter>Rule 49. MSC\MSC52-CPP</Filter>
     </ClCompile>
     <ClCompile Include="MEM56-CPP\main.cpp">
-      <Filter>MEM56-CPP</Filter>
+      <Filter>Rule 06. MEM\MEM56-CPP</Filter>
     </ClCompile>
     <ClCompile Include="MEM51-CPP\main.cpp">
-      <Filter>MEM51-CPP</Filter>
+      <Filter>Rule 06. MEM\MEM51-CPP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DCL59-CPP\unnamed_namespace.h">
-      <Filter>DCL59-CPP</Filter>
+      <Filter>Rule 01. DCL\DCL59-CPP</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
