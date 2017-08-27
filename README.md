@@ -1,14 +1,19 @@
 # 16th Hacking Camp - C++ Secure Coding
 
-###### 16th Hacking Camp - C++ secure coding guidelines example code
-
 <img src="https://github.com/utilForever/16thHackingCamp-CppSecureCoding/blob/master/Logo.png" align="center" />
 
-This is C++ secure coding guidelines example code based on [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637).
+This is 16th Hacking Camp - C++ secure coding guidelines example code based on [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637).
 
 [![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/utilForever/CubbyFlow/blob/master/LICENSE)
 
+## SEI CERT C++ Coding Standard
+
+The C++ rules and recommendations in this wiki are a work in progress and reflect the current thinking of the secure coding community. Because this is a development website, many pages are incomplete or contain errors. As rules and recommendations mature, they are published in report or book form as official releases. These releases are issued as dictated by the needs and interests of the secure software development community.
+The CERT C++ Coding Standard does not currently expose any recommendations; all C++ recommendations have been removed (moved to The Void section) due to quality concerns pending further review and development.
+
 ## Examples
+
+- [Representation file](https://github.com/utilForever/16thHackingCamp-CppSecureCoding/blob/master/C%2B%2B%20Secure%20Coding%20Guide.pdf)
 
 - Rule 01. Declarations and Initialization (DCL)
 - Rule 02. Expressions (EXP)
