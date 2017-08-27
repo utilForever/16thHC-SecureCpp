@@ -52,6 +52,9 @@
     <Filter Include="CON51-CPP">
       <UniqueIdentifier>{47d89373-926f-45ba-844a-da2d4bc66c93}</UniqueIdentifier>
     </Filter>
+    <Filter Include="MSC50-CPP">
+      <UniqueIdentifier>{2d59745e-c07c-4664-a5f5-b7c7000c37e9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DCL59-CPP\main.cpp">
@@ -110,6 +113,9 @@
     </ClCompile>
     <ClCompile Include="CON51-CPP\main.cpp">
       <Filter>CON51-CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="MSC50-CPP\main.cpp">
+      <Filter>MSC50-CPP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
