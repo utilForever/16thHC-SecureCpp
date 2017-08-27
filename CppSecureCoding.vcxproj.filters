@@ -49,6 +49,9 @@
     <Filter Include="OOP58-CPP">
       <UniqueIdentifier>{77fb9b57-2e65-4fe3-9abd-09a43642a186}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CON51-CPP">
+      <UniqueIdentifier>{47d89373-926f-45ba-844a-da2d4bc66c93}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DCL59-CPP\main.cpp">
@@ -104,6 +107,9 @@
     </ClCompile>
     <ClCompile Include="OOP58-CPP\main.cpp">
       <Filter>OOP58-CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CON51-CPP\main.cpp">
+      <Filter>CON51-CPP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
