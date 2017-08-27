@@ -58,6 +58,9 @@
     <Filter Include="MSC51-CPP">
       <UniqueIdentifier>{c9138839-ca5b-4bc8-87d6-18d9ba77e701}</UniqueIdentifier>
     </Filter>
+    <Filter Include="MSC52-CPP">
+      <UniqueIdentifier>{a8d68604-8f0c-41c5-ba46-9f0a681e0c79}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DCL59-CPP\main.cpp">
@@ -122,6 +125,9 @@
     </ClCompile>
     <ClCompile Include="MSC51-CPP\main.cpp">
       <Filter>MSC51-CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="MSC52-CPP\main.cpp">
+      <Filter>MSC52-CPP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
